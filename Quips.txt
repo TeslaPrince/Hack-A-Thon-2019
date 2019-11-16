@@ -1,0 +1,85 @@
+//Swear like a Sailor
+User hits Opponent
+-THAR SHE BLOWS!
+-Finally! You hit something!
+-Nicely done! Now make it happen again!
+-Keep those cannons firing boys!
+-Next one to land a hit gets a cask of grog from the capt'n's stores!
+
+User misses Opponent
+-Avast! Make your aim true, maggots!
+-Reload you sniveling pigs!
+-You managed to hit water in the middle of the ocean! Congratulations!
+-You missed by a mile! Are you blind or just bloody stupid?
+-Next shot that misses, you're jumpin' in after it
+
+User sinks Opponent
+-We've blown those damn state dogs to hell!
+-First round's on me tonight, boys!
+-Ha I didn't even think that would work!
+-To Davey Jones's Locker with ya!
+-Down go the landlubbers!
+
+Opponent hits User
+-Bloody Hell! What in Davey Jones's name just happened?!
+-These damn state dogs!
+-These bloody princocks will be the death of me!
+-You bloody landlubbers! Just go down quietly!
+-Filthy grommets!
+
+Opponent misses User
+-HA! Did your bloody cannon even go off?
+-Dumb as a board, this lot!
+-So much for that state Man-o-War!
+-Escaped by the skin of our teeth.
+-Too close for comfort.
+
+Opponent sinks User
+-Yo Ho Noooooo!
+-Abandon ship!
+-They managed to bloody do it!
+-To the bottom of the sea then.
+-I don't wanna die!
+ 
+//Sweet like the State
+User hits Opponent
+-Ready! Reload! Fire!
+-Shot Landed!
+-Get those cannons full smartly, lads!
+-Success!
+-Aim True!
+
+User misses Opponent
+-Damn!
+-Reset!
+-Disregard and fire!
+-Fire at will!
+-Blasphamy!
+
+User sinks Opponent
+-The enemy has gone down!
+-It was almost too easy!
+-It has been done!
+-For Her Majesty!
+-Smartly done, men!
+
+Opponent hits User
+-We've taken fire!
+-Those damn pirates!
+-Stand firm men!
+-Remember your place, sailor!
+-Blimey!
+
+Opponent misses User
+-A small victory!
+-Don't be arrogant, men!
+-Pirates couldn't aim cold sober.
+-Drunk bastards can't even shoot.
+-Too close for comfort. Reset and fire at will!
+
+Opponent sinks User
+-Stand and go down with honor!
+-Abandon ship!
+-Get to the boats!
+-Go down with the ship!
+-It's been a pleasure serving with you men!
